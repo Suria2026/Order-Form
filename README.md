@@ -129,20 +129,6 @@ button{
 <div id="orderPage">
 
 <h1>Order Form</h1>
-
-<div class="customer-section">
-<h2>Customer Information</h2>
-
-<label>Name</label>
-<input type="text" id="customerName">
-
-<label>Phone</label>
-<input type="text" id="customerPhone">
-
-<label>Email</label>
-<input type="email" id="customerEmail">
-</div>
-
 <input
 type="text"
 id="searchBox"
